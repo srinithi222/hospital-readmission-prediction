@@ -2,7 +2,7 @@
 
 Predicts whether a diabetic patient will be readmitted to hospital within 30 days of discharge, and explains why. Built with Python, SQL and Scikit-learn, and finished with an interactive risk predictor.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JoJD2f6d7NegGmLVMd_Wbh7u7aJohqwW?usp=sharing)
 
 ## Why this problem matters
 
